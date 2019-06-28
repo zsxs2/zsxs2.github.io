@@ -1,6 +1,6 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRJd05uUm9jbVZrT1dOak5ESXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGMlptMTNaWE5qYUhneVltc3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhwdVoyVnNkV1ozTnpKblp5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==","WkRGa2RtbzFNVGxtYmpoemVUTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROaE5UTXdaV2x0WTJ3d1kza3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROcmFHUmlaR2d4T1dSeWJ6UXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "value": [ "WkROa05USjRhak5qTURCdmFuSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGMlptMTNaWE5qYUhneVltc3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhwdVoyVnNkV1ozTnpKblp5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==","WkROcGVIRnJhRE5pWkhZMmFYZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKcWIzWnZjRzFwYVhkb04yOHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROcmFHUmlaR2d4T1dSeWJ6UXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
                  "fq": "WkRJeGNHTjBlWFkxWkRKamNHMHVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVM0eE5qTXVPVFV1T1RNPQ==", "TVRFNExqRTJNUzR4TnpJdU1qQTI=", "TmpFdU1qTXhMakUyTmk0eE56VT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpjdU1UQTFMak00TGpFd053PT0=", "TmpFdU1qTXhMakUyTkM0eU5EYz0=", "ZUdKblptNHVablZpWVc4dWMzQmhZMlU9","ZEhWNWNIQXVkWFY1WVM1MGIzQT0=", "ZVhwdFptY3VaMkZ1TFdWdUxuTnBkR1U9", "YjI1cWJYb3ViM1YxWVM1MGIzQT0="]
+                 "value": [ "TWpjdU1UQTFMak00TGpFd053PT0=", "TmpFdU1qTXhMakUyTWk0eE56VT0=", "WTJoamJtOTBMbWhsWVdrdWMzQmhZMlU9","Wm1WNWFYSjRiMk11ZG5WMVlTNTBiM0E9", "ZDIxbmVIWXVaMkZ1TFdWdUxuUnZjQT09", "WlhsaFozZHVkMlF1Y1c5aFlTNTBiM0E9"]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZ3VUdWTg==", "ZEM1amJpOUZSMWhyVGtKaw==", "WjNsb1kyOW5MbUZrYzNodGJHSXVaM0V2TmpnPQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZ3VEc1Sg==", "ZEM1amJpOUZSMWhyVjNoQw==", "Ym14dmFIbDZMbUppYUdobGIyRndMbWRoTHpZNA=="]
                }, 
             
     "article": { "name": "最新文章", 
@@ -87,7 +87,7 @@ var feed_data = {
                  "sha1": "0D35F7294986F2DB2FEE689AD470693791671551",
                  "sha512": "f6f49be558304cffe23a8d2efb154825e92de3d25a7142d9d092eda0fa1d09cee4284a8f7fe80d3abec34d119113b7f9a38d5f2a3c30ec26e5a1a249b10517b0
 ",
-                 "time": "1561741533"
+                 "time": "1561741670"
                } 
      
  }  

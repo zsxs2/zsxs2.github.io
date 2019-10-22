@@ -1,6 +1,6 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRKdGNHSm1iM2M1Tm04NU5tRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGaWVIVnBkakEwT1RCMk0yc3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhaNWFqWjRhbU4zY1dGaWRDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==","WkRKdmFtRjJZVzFtZEdRemVIa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFME1HZGljamhsYlRodk1UTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROMVltZzNOVE16YWpBMU5HUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "value": [ "WkRacE9HTm1ibWgzYUhReGF5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkhJMGVEZHNlWFJsYURkdVlTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRKbk1qZHFhV295YVRsM2RUUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==","WkROd2RubHBiM2RuZDJGeGNHZ3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRFME1HZGljamhsYlRodk1UTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROMVltZzNOVE16YWpBMU5HUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
                  "fq": "WkRGcWF6Um5Nek5tYkRKME9UVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFeExqSTFNUzR4TWk0eE5qRT0=", "TVRFMExqSTBMamcyTGpVMg==", "TmpFdU1qSTRMakU0TXk0eU1URT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TlRJdU1UazJMakkwT1M0NU13PT0=", "ZVdka2EyVjNMbTloZW1FdWRHOXc=", "TWpjdU1UQTFMak16TGpJdw==","Ym05NWEyOXZMbTloZW1FdWRHOXc=", "YVhKdVlXNTBMbWh2Ym1kNWRXRnVMbk53WVdObA==", "TmpFdU1qSTRMakl4TkM0eE1UYz0="]
+                 "value": [ "TlRJdU1UazJMakkwT1M0NU13PT0=", "Y0c5eGRtNTBjM291YzJoaGJtUmhhUzVvYjNOMA==", "TmpFdU1qSTRMakU1TUM0M09RPT0=","ZDNGeFlXbDRjaTVuWVc1bGJpNXdkdz09", "WjNKd2JHdDBMbWRoYm1WdUxuQjM=", "TmpFdU1qSTRMakU0TVM0eU5EWT0="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxTVZKaQ==", "ZEM1amJpOUZSMWhyY1dJdw==", "WW05NWFtdGxiUzVuWkdWbGRIVnBkUzVqWmk4Mk9BPT0="]
+                 "value": [ "ZEM1amJpOUZlbkZxU25oVw==", "ZEM1amJpOUZSMWhyUlROWg==", "WVdWbmFHdDNlUzU2Y0hGbWJuRXViV3d2TmpnPQ=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -87,7 +87,7 @@ var feed_data = {
                  "sha1": "4982F6494AEB53EA96F64B5306DF1FD607A17BFD",
                  "sha512": "E2DE493E6B41FD4792AA6DC9096C5BF77DDB0068AC28E2B142BAB28BF49D041EBD689AE8E8FE5B23315469DE1505F4A5C5FF974A4FA011B67ED8B285A29676AF
 ",
-               "time": "1571779907"
+               "time": "1571780044"
                } 
      
  }     
